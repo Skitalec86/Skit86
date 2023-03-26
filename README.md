@@ -2,11 +2,7 @@
 <html>
     <head>
     <title>Администрация городского округа Октябрьск Новости - Поздравление Главы г.о. Октябрьск А.В. Гожей с Днем работника культуры (25 марта 2023 года)</title>
-    <meta name="keywords" content=""/>
-    <meta name="description" content=""/>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-            <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,700,700i" rel="stylesheet"> 
-</head>
+    </head>
     <body>
     <h1>Поздравление Главы г.о. Октябрьск А.В. Гожей с Днем работника культуры (25 марта 2023 года)</h1>
     <p><strong>Уважаемые работники учреждений&nbsp;культуры!</strong>&nbsp;</p>
